@@ -4,7 +4,8 @@
     <Files>
       <File FileName="Assets/JOKER/Scripts/Novel/Components/Live2dComponent.cs" Line="1" Column="1" />
       <File FileName="Assets/JOKER/Scripts/Novel/ObjectSet/AbstractObject.cs" Line="1" Column="1" />
-      <File FileName="Assets/JOKER/Scripts/Novel/Core/SaveManager.cs" Line="233" Column="13" />
+      <File FileName="Assets/JOKER/Scripts/Novel/Core/SaveManager.cs" Line="92" Column="66" />
+      <File FileName="Assets/JOKER/Scripts/Novel/Libs/iTween.cs" Line="6039" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

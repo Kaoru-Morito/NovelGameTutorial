@@ -88,7 +88,7 @@ namespace Novel
 			string json = LitJson.JsonMapper.ToJson (sobj);
 
 
-			//WebPlayer の場合保存方法に変化を入れる
+			////WebPlayer の場合保存方法に変化を入れる
 			//if (Application.platform == RuntimePlatform.WindowsWebPlayer || Application.platform == RuntimePlatform.OSXWebPlayer) {
 
 			//	PlayerPrefs.SetString("setting.dat", json);
@@ -117,7 +117,7 @@ namespace Novel
 
 		public void loadGlobal(){
 
-			//WebPlayer の場合保存方法に変化を入れる
+			////WebPlayer の場合保存方法に変化を入れる
 			//if (Application.platform == RuntimePlatform.WindowsWebPlayer || Application.platform == RuntimePlatform.OSXWebPlayer) {
 
 			//	if (!PlayerPrefs.HasKey ("setting.dat")) {

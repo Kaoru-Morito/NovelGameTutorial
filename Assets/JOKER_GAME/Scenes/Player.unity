@@ -542,10 +542,10 @@ Camera:
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0.019607844}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
-    y: 0.00054585934
-    width: 1
-    height: 0.9989083
+    x: 0.09863171
+    y: 0
+    width: 0.8027366
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -830,10 +830,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7a66a5db24d04c4b93dffe24e4ef907, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aspect: {x: 4, y: 3}
+  aspect: {x: 16, y: 9}
   backgroundColor:
     serializedVersion: 2
-    rgba: 4278190080
+    rgba: 4294967295
 --- !u!4 &1180611142
 Transform:
   m_ObjectHideFlags: 0
@@ -1931,7 +1931,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -400, y: -224.99997}
+  m_AnchoredPosition: {x: -395, y: 223}
   m_SizeDelta: {x: 800, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1969880059
